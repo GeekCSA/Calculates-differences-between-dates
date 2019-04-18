@@ -7,7 +7,7 @@ The user then receives the number of complete years, complete months, and days b
 The user receives an option, by pressing 'y' or 'Y', to insert a new pair of dates and get the difference between the dates.
 If 'n' or 'N' is answered, the program ends.
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+### Example of running the program
+
+1. Explanations about the software, and a request to enter the first date
+![](https://github.com/GeekCSA/Calculates-differences-between-dates/blob/master/Pictures/1.png)
