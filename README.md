@@ -11,3 +11,12 @@ If 'n' or 'N' is answered, the program ends.
 
 1. Explanations about the software, and a request to enter the first date
 ![](https://github.com/GeekCSA/Calculates-differences-between-dates/blob/master/Pictures/1.png)
+
+2. Request for the second date
+![](https://github.com/GeekCSA/Calculates-differences-between-dates/blob/master/Pictures/2.png)
+
+3. An error message, as well as a new date request (only for the incorrect date)
+![](https://github.com/GeekCSA/Calculates-differences-between-dates/blob/master/Pictures/3.png)
+
+4. Displays the answer, as well as whether the user wants to run the program again
+![](https://github.com/GeekCSA/Calculates-differences-between-dates/blob/master/Pictures/4.png)
